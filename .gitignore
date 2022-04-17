@@ -22,6 +22,9 @@ DOSCAR
 IBZKPT
 PROCAR
 WAVECAR
+AECCAR*
+
+# Script files
 
 std.err
 std.out
